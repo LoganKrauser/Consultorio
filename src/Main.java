@@ -22,6 +22,8 @@ public class Main {
                     System.out.println("Registrar paciente");
                 case 2:
                     System.out.println("Registrar doctor");
+                case 3:
+                    System.out.println("Registrar cita");
                 case 5:
                     System.out.println("Saliendo del programa");
                 default:
